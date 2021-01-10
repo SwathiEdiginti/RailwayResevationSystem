@@ -1,6 +1,6 @@
 import java.io.*;
 
-    public class railreserve
+    public class RailwayReservationSystem
 
     {
 
